@@ -1,0 +1,4 @@
+Impossible de se connecter à la base de données!
+Mot de passe incorrect. S'il vous plaît essayez de nouveau.
+Nom d'utilisateur introuvable.
+Vous ne possèdent pas de privilèges suffisants pour exécuter cette commande.

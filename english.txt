@@ -1,0 +1,4 @@
+Could not connect to the database!
+Incorrect password. Please try again.
+Username not found.
+You do not possess adequate privileges to execute this command.

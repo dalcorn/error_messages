@@ -1,0 +1,4 @@
+Konnte keine Verbindung zur Datenbank!
+Falsches Passwort. Bitte versuchen Sie es erneut.
+Benutzername nicht gefunden.
+Sie besitzen keine ausreichenden Berechtigungen, um diesen Befehl auszuführen.
